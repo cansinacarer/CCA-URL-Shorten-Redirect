@@ -1,6 +1,8 @@
 ## CCA URL Shorten & Redirect
 CCA URL Shorten & Redirect allows you to use another website as a URL shortener and create custom redirections remotely.
 
+This plugin is published on [WordPress Plugin Directory](https://wordpress.org/plugins/cca-url-shorten-redirect/).
+
 ### Description
 This plugin allows you to use another website as a URL shortener and create custom redirections. Install this plugin on the website where you want to control the short links from (example.com). Host plugin must be installed on the other website (e.g. exm.pl).
 
